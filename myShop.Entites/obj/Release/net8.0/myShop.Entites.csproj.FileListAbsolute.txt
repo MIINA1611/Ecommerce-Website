@@ -1,0 +1,15 @@
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.Entites\bin\Release\net8.0\myShop.Entites.deps.json
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.Entites\bin\Release\net8.0\myShop.Entites.dll
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.Entites\bin\Release\net8.0\myShop.Entites.pdb
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.Entites\obj\Release\net8.0\myShop.Entites.Resources.Resource_en_HTML.resources
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.Entites\obj\Release\net8.0\myShop.Entites.Resources.Resource_en_Models.resources
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.Entites\obj\Release\net8.0\myShop.Entites.csproj.GenerateResource.cache
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.Entites\obj\Release\net8.0\myShop.Entites.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.Entites\obj\Release\net8.0\myShop.Entites.AssemblyInfoInputs.cache
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.Entites\obj\Release\net8.0\myShop.Entites.AssemblyInfo.cs
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.Entites\obj\Release\net8.0\myShop.Entites.csproj.CoreCompileInputs.cache
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.Entites\obj\Release\net8.0\myShop.Entites.sourcelink.json
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.Entites\obj\Release\net8.0\myShop.Entites.dll
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.Entites\obj\Release\net8.0\refint\myShop.Entites.dll
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.Entites\obj\Release\net8.0\myShop.Entites.pdb
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.Entites\obj\Release\net8.0\ref\myShop.Entites.dll
