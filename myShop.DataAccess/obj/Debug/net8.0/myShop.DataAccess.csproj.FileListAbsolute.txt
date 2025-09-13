@@ -1,0 +1,16 @@
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\bin\Debug\net8.0\myShop.DataAccess.deps.json
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\bin\Debug\net8.0\myShop.DataAccess.dll
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\bin\Debug\net8.0\myShop.DataAccess.pdb
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\bin\Debug\net8.0\myShop.Entites.dll
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\bin\Debug\net8.0\myShop.Entites.pdb
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\obj\Debug\net8.0\myShop.DataAccess.csproj.AssemblyReference.cache
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\obj\Debug\net8.0\myShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\obj\Debug\net8.0\myShop.DataAccess.AssemblyInfoInputs.cache
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\obj\Debug\net8.0\myShop.DataAccess.AssemblyInfo.cs
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\obj\Debug\net8.0\myShop.DataAccess.csproj.CoreCompileInputs.cache
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\obj\Debug\net8.0\myShop.DataAccess.sourcelink.json
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\obj\Debug\net8.0\myShop.D.BF31A137.Up2Date
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\obj\Debug\net8.0\myShop.DataAccess.dll
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\obj\Debug\net8.0\refint\myShop.DataAccess.dll
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\obj\Debug\net8.0\myShop.DataAccess.pdb
+D:\Backend dotnet\ShopProjectV2\ShopProject\myShop.DataAccess\obj\Debug\net8.0\ref\myShop.DataAccess.dll
